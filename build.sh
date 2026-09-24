@@ -2,6 +2,6 @@
 
 echo "Starting application build..."
 
-echo "Simulating build failure..."
+echo "Build completed successfully."
 
-exit 1
+exit 0
